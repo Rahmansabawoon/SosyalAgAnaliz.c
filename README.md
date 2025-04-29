@@ -1,0 +1,1 @@
+# SosyalAgAnaliz.c
